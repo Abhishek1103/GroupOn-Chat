@@ -6,17 +6,19 @@ An easy to use personal java based chat messaging and file sharing desktop appli
 
 ## Features:
 *General Features*
-* Showing online users
-* Notifications
-* Spell Checking
-* Offline messages readability
+* Showing online/offline status of users
+* Notifications for new messages
+* Spell Checking while typing
+* Read messages when offline
+* File sharing (text/music/video/source-code etc)
 
-*Personal Chat*
+*User-to-User Chat*
 * Register/Login for each user.
 * Profile Page for each user.
-* Upload and Download of Image
+* Upload and Download of Profile Image
 
 *Group chat*
-* Searching groups on the app
-* Request to join group
+* Search various groups on the app
+* Request to join a group
 * Support for viewing members in a group
+* Admin can add new members in the group
